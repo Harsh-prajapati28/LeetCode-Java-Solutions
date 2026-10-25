@@ -28,3 +28,15 @@ https://leetcode.com/u/ZqMEitopr4/
 ---
 
 *Learning, practicing, and improving one problem at a time.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
+<!---LeetCode Topics End-->
