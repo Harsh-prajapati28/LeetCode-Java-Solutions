@@ -35,8 +35,13 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
+| [0704-binary-search](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
