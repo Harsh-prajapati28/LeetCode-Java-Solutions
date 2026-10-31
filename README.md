@@ -50,12 +50,14 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -87,4 +89,8 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
