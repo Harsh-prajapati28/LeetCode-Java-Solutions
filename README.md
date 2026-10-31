@@ -34,6 +34,7 @@ https://leetcode.com/u/ZqMEitopr4/
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -50,6 +51,7 @@ https://leetcode.com/u/ZqMEitopr4/
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -75,5 +77,6 @@ https://leetcode.com/u/ZqMEitopr4/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
