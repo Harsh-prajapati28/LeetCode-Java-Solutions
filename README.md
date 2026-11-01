@@ -57,6 +57,7 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
