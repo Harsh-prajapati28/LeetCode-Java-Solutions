@@ -66,6 +66,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0520-detect-capital) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
