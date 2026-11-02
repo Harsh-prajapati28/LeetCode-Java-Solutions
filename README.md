@@ -64,6 +64,7 @@ https://leetcode.com/u/ZqMEitopr4/
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -95,4 +96,8 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
