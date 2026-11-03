@@ -65,6 +65,7 @@ https://leetcode.com/u/ZqMEitopr4/
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0520-detect-capital) |
