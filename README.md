@@ -71,6 +71,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -82,6 +83,7 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,8 +112,13 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0027-remove-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
