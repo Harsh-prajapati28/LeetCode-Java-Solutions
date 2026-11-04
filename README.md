@@ -72,6 +72,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -116,6 +117,7 @@ https://leetcode.com/u/ZqMEitopr4/
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
