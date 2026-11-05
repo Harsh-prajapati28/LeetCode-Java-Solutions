@@ -48,6 +48,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0724-find-pivot-index](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Bit Manipulation
 |  |
@@ -87,6 +88,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
