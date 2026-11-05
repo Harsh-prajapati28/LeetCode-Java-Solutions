@@ -43,6 +43,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
