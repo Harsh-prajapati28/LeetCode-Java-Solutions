@@ -49,6 +49,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Bit Manipulation
 |  |
@@ -82,6 +83,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +125,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0125-valid-palindrome](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Stack
 |  |
 | ------- |
