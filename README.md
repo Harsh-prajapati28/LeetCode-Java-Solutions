@@ -38,6 +38,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -47,6 +48,7 @@ https://leetcode.com/u/ZqMEitopr4/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 ## Binary Search
 |  |
@@ -123,4 +125,8 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
