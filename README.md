@@ -48,6 +48,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0724-find-pivot-index](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
+| [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,4 +138,5 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
