@@ -43,6 +43,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
@@ -127,6 +128,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0027-remove-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Stack
