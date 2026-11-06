@@ -43,6 +43,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -58,12 +59,14 @@ https://leetcode.com/u/ZqMEitopr4/
 | ------- |
 | [0078-subsets](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
@@ -73,6 +76,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0009-palindrome-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -97,6 +101,7 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -153,6 +158,7 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
