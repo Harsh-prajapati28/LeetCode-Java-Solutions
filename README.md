@@ -51,6 +51,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0724-find-pivot-index](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -78,6 +79,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0069-sqrtx](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
