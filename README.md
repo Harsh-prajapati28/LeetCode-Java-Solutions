@@ -42,6 +42,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0078-subsets](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
@@ -94,12 +95,14 @@ https://leetcode.com/u/ZqMEitopr4/
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +147,16 @@ https://leetcode.com/u/ZqMEitopr4/
 | ------- |
 | [0724-find-pivot-index](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
