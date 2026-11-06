@@ -1,11 +1,10 @@
 class Solution {
     public int[] sumZero(int n) {
         int[] ans=new int[n];
-        int j=n;
         int i=0;
         if(n%2 !=0){
             ans[0]=0;
-            
+            i=1;
            }
 
            while(i<ans.length-1){
