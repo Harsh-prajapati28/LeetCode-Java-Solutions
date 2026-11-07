@@ -57,6 +57,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1408-string-matching-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -154,6 +155,7 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -187,4 +189,8 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1408-string-matching-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
