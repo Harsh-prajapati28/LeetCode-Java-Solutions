@@ -54,6 +54,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -72,6 +73,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +144,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0189-rotate-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Stack
 |  |
@@ -166,6 +169,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
