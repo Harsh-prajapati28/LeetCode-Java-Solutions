@@ -58,6 +58,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -118,6 +119,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
