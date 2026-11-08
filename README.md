@@ -92,6 +92,7 @@ https://leetcode.com/u/ZqMEitopr4/
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -144,6 +145,7 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
@@ -188,9 +190,22 @@ https://leetcode.com/u/ZqMEitopr4/
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
