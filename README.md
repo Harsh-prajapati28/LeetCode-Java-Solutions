@@ -65,6 +65,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3978-unique-middle-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
