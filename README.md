@@ -55,6 +55,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1051-height-checker](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -119,6 +120,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
@@ -181,6 +183,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
@@ -217,6 +220,7 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
