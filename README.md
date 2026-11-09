@@ -52,6 +52,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0724-find-pivot-index](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0867-transpose-matrix) |
+| [1051-height-checker](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -179,6 +180,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
@@ -211,4 +213,12 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
