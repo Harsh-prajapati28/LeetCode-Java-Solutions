@@ -67,6 +67,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3978-unique-middle-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3978-unique-middle-element) |
@@ -132,6 +133,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
@@ -203,6 +205,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
