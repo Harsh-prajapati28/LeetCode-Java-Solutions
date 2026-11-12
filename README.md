@@ -61,6 +61,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1408-string-matching-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
