@@ -66,6 +66,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3978-unique-middle-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3978-unique-middle-element) |
@@ -97,6 +98,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
@@ -199,6 +202,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -235,4 +239,8 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1051-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
