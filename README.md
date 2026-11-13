@@ -66,6 +66,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
@@ -77,6 +78,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0078-subsets](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3866-first-unique-even-element) |
