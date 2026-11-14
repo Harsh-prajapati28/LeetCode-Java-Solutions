@@ -109,6 +109,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | [0058-length-of-last-word](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
@@ -128,6 +129,7 @@ https://leetcode.com/u/ZqMEitopr4/
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -204,6 +206,7 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -249,4 +252,8 @@ https://leetcode.com/u/ZqMEitopr4/
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harsh-prajapati28/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
